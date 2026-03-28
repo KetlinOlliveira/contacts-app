@@ -1,6 +1,19 @@
+<div align = "center">
+
 # 📇 Contacts App
 
-A full-stack contact management app built with **Node.js + TypeScript + Express + MongoDB** on the backend and **React + TypeScript + Vite** on the frontend.
+![Node [badge]](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript [badge]](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express [badge]](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB [badge]](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![React [badge]](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript [badge]](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite [badge]](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+Um app fullStack de gerenciamento de contatos desenvolvido com **Node.js + TypeScript + Express + MongoDB** no backend e **React + TypeScript + Vite** no frontend.
+
+</div>
 
 ---
 
@@ -13,6 +26,14 @@ A full-stack contact management app built with **Node.js + TypeScript + Express 
 - **TypeScript** em todo o projeto (backend + frontend)
 
 ---
+
+## Demonstração Visual
+
+> Tela inicial
+<img width="1784" height="885" alt="Captura de tela 2026-03-28 152049" src="https://github.com/user-attachments/assets/fa5cb0ab-c16d-4719-aa3b-eb6929397f8c" />
+
+>Cadastrando novo Contato/Editando
+<img width="1198" height="912" alt="Captura de tela 2026-03-28 151929" src="https://github.com/user-attachments/assets/4833b402-9afe-4d17-857f-5c728af5a577" />
 
 ## 📁 Estrutura do Projeto
 
