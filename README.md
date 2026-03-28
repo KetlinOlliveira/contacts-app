@@ -1,6 +1,8 @@
 <div align = "center">
+  
+<img width="100" height="100" alt="chat" src="https://github.com/user-attachments/assets/ebd3a240-216b-49f5-97b5-10757d19a711" />
 
-# 📇 Contacts App
+#  Contacts App
 
 ![Node [badge]](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript [badge]](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +19,7 @@ Um app fullStack de gerenciamento de contatos desenvolvido com **Node.js + TypeS
 
 ---
 
-## ✨ Features
+## 📇 Features
 
 - **CRUD completo** — criar, listar, editar e deletar contatos
 - **Busca em tempo real** por nome, email ou empresa
